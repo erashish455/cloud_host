@@ -11,7 +11,7 @@
 }
 
 .collapse-navbar {
-    margin-left: 13em;
+    text-align: right;
 }
 
 .bannerAll {
@@ -28,7 +28,7 @@
 }
 
 .functional-buttons {
-    margin-left: 1rem;
+    text-align: right;
 }
 
 @media(min-width: 992px) {
